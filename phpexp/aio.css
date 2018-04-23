@@ -1,0 +1,70 @@
+<style>
+.upperfixer{}
+button
+	{
+		margin: auto;
+		font-family: monospace;
+		padding: 10px;
+		font-size: 15px;
+		color: black;
+		background: white;
+		border-radius: 20px;
+	}
+button:hover
+	{
+		margin: auto;
+		font-family: monospace;
+		padding: 10px;
+		font-size: 15px;
+		color: yellow;
+		background: black;
+		border-radius: 20px;
+	}
+
+table 
+	{
+		font-family: monospace;
+		border-collapse: collapse;
+	}
+
+table,tr,th,td
+	{
+		margin: auto;
+		font-size: auto;
+		font-family: monospace;
+		border: 1px solid green;
+		padding: 20px;
+
+	}
+
+form{
+	font-family: monospace;
+	width : 90%;
+	margin: 50px auto;
+	text-align: left;
+	padding: 20px;
+	border: 1px solid green;
+	border-width: 5px;
+}
+tr,th:hover
+	{
+		font-family: monospace;
+		background: black;
+		color: yellow;
+		border: 1px solid yellow;
+	}
+body
+	{
+		font-family: monospace;
+		background-color: url("bg.jpg");
+		color: white;
+		margin: auto;
+	}
+
+a{
+	color: black;
+}
+a:hover{
+	color: yellow;
+}
+</style>
